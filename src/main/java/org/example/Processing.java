@@ -4,6 +4,7 @@ import processing.core.PApplet;
 import processing.core.PConstants;
 
 public class Processing extends PApplet {
+
     @Override
     public void settings() {
         size(640, 360, PConstants.JAVA2D);

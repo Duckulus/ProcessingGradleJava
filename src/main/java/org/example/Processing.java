@@ -19,9 +19,4 @@ public class Processing extends PApplet {
 
     }
 
-    @Override
-    public void mousePressed() {
-
-    }
-
 }
